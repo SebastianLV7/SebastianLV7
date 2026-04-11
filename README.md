@@ -1,2 +1,2 @@
-# IEEE Workshop
-Esto es un readme v2
+# IEEE Workshop CUC Crea tu CV
+- Esto es un readme v2
