@@ -1,47 +1,39 @@
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/377/37708.gif" width="85%" />
+</p>
+
+<br>
+
 <h1 align="center">Hi, I'm Sebastián Llanos 👋</h1>
 
 <p align="center">
-  💻 Systems Engineering student passionate about Software Engineering <br>
-  🚀 Front-End Developer crafting clean & eye-catching experiences
+  💻 Systems Engineering student focused on Software Engineering <br>
+  🚀 Front-End Developer focused on clean UX • Exploring DevOps, AI & Full Stack
 </p>
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="top">
-
 ### 🧠 About Me
 
 - 🌱 Currently learning: **Clean Code & Front-End Development**
-- 🧠 Interested in: **DevOps, UX/UI, Full Stack & AI**
-- ⚡ Constantly improving my **code quality & problem-solving**
+- 🧠 Exploring: **DevOps, Artificial Intelligence & Full Stack Development**
+- ⚡ Improving **code quality, scalability, and problem-solving skills**
 - 🎮 Huge fan of **Resident Evil & Hollow Knight**
 
 ---
 
 ### 🎯 Current Focus
 
-- Building **minimalist & visually impactful** front-end projects  
-- Turning knowledge into **real-world applications**  
-- Focusing on **accessibility and modern development practices**
+- Building **minimalist & user-focused** front-end projects  
+- Turning concepts into **real-world applications**  
+- Applying **accessibility and modern development practices**
 
 ---
 
 ### 🚀 Vision
 
-> Aiming to become a Software Engineer with strong expertise in  
-> **AI, DevOps, UX/UI, and Full Stack Development**
-
-</td>
-
-<td width="40%" align="center" valign="top">
-
-<img src="https://giffiles.alphacoders.com/216/216593.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+> Becoming a Software Engineer with strong foundations in  
+> **Full Stack Development, AI, DevOps, and user-centered design (UX/UI)**
 
 ---
 
