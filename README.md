@@ -7,9 +7,9 @@
 
 ---
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="60%" style="border: none; vertical-align: top;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
 
 ### 🧠 About Me
 
@@ -35,7 +35,7 @@
 
 </td>
 
-<td width="40%" align="center" style="border: none; vertical-align: top;">
+<td width="40%" align="center" valign="top">
 
 <img src="https://giffiles.alphacoders.com/216/216593.gif" width="100%" />
 
@@ -47,6 +47,6 @@
 
 ### 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,python" />
 </p>
