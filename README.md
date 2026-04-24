@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://giffiles.alphacoders.com/377/37708.gif" width="90%" />
 </p>
-
-<br>
-
 <h1 align="center">Hi, I'm Sebastián Llanos 👋</h1>
 
 <p align="center">
