@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,npm,git,github,mysql,python" />
 </p>
 
+---
+
 ### 🔧 Tools & Workflow
 
 <p align="center">
