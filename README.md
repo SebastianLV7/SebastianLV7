@@ -39,7 +39,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,npm,git,github,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,npm,git,github,mysql,python" />
 </p>
 
 ---
@@ -47,5 +47,5 @@
 ### 🔧 Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,linux,md,obsidian,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,md,obsidian,notion" />
 </p>
