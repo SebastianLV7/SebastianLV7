@@ -47,5 +47,5 @@
 ### 🔧 Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,md,obsidian,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,md,obsidian,notion" />
 </p>
